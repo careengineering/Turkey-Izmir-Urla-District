@@ -6,7 +6,7 @@ If you need a GeoJSON dataset containing only neighborhood names with areas [Url
 <img src="https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/img/Geojson-UrlaDistricts_onlyareas.png" width="500" />
 
 If you need a GeoJSON dataset containing only neighborhood names with dots [Urla Districts Only Dots GeoJSON File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/GEOJSON/UrlaDistricts_onlydots.geojson)
-![Preview](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/img/Geojson-UrlaDistricts_onlydots.png =250x250)
+<img src="https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/img/Geojson-UrlaDistricts_onlydots.png" width="500" />
 
 If you need a KML containing only neighborhood names with areas [Urla Districts Only Areas KML File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/KML/UrlaDistricts_onlyareas.kml)
 
