@@ -55,7 +55,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">YENIKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">10157.6</SimpleData>
 					<SimpleData name="SHAPE_Area">2.60974e+06</SimpleData>
 				</SchemaData>
@@ -71,7 +71,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Balıklıova</name>
+			<name>BalIklIova</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -134,7 +134,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Altıntaş</name>
+			<name>AltIntaş</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -160,7 +160,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">CAMİATİK</SimpleData>
+					<SimpleData name="ADINUMARAS">CAMIATIK</SimpleData>
 					<SimpleData name="SHAPE_Leng">11165.9</SimpleData>
 					<SimpleData name="SHAPE_Area">2.65548e+06</SimpleData>
 				</SchemaData>
@@ -176,7 +176,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Sıra</name>
+			<name>SIra</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -197,12 +197,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Atatürk</name>
+			<name>AtatUrk</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ATATÜRK</SimpleData>
+					<SimpleData name="ADINUMARAS">ATATURK</SimpleData>
 					<SimpleData name="SHAPE_Leng">12616.2</SimpleData>
 					<SimpleData name="SHAPE_Area">3.73925e+06</SimpleData>
 				</SchemaData>
@@ -218,12 +218,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>İskele</name>
+			<name>Iskele</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">İSKELE</SimpleData>
+					<SimpleData name="ADINUMARAS">ISKELE</SimpleData>
 					<SimpleData name="SHAPE_Leng">16454.8</SimpleData>
 					<SimpleData name="SHAPE_Area">6.12474e+06</SimpleData>
 				</SchemaData>
@@ -239,12 +239,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Güvendik</name>
+			<name>GUvendik</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">GÜVENDİK</SimpleData>
+					<SimpleData name="ADINUMARAS">GUVENDIK</SimpleData>
 					<SimpleData name="SHAPE_Leng">25415.2</SimpleData>
 					<SimpleData name="SHAPE_Area">1.80861e+07</SimpleData>
 				</SchemaData>
@@ -265,7 +265,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİ</SimpleData>
+					<SimpleData name="ADINUMARAS">YENI</SimpleData>
 					<SimpleData name="SHAPE_Leng">1558.73</SimpleData>
 					<SimpleData name="SHAPE_Area">95257.9</SimpleData>
 				</SchemaData>
@@ -302,12 +302,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Hacı İsa</name>
+			<name>HacI Isa</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">HACI İSA</SimpleData>
+					<SimpleData name="ADINUMARAS">HACI ISA</SimpleData>
 					<SimpleData name="SHAPE_Leng">3424.42</SimpleData>
 					<SimpleData name="SHAPE_Area">315070</SimpleData>
 				</SchemaData>
@@ -323,12 +323,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Rüstem</name>
+			<name>RUstem</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">RÜSTEM</SimpleData>
+					<SimpleData name="ADINUMARAS">RUSTEM</SimpleData>
 					<SimpleData name="SHAPE_Leng">16028.5</SimpleData>
 					<SimpleData name="SHAPE_Area">6.71696e+06</SimpleData>
 				</SchemaData>
@@ -344,12 +344,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>M.Fevzi Çakmak</name>
+			<name>M.Fevzi Cakmak</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">M.FEVZİ ÇAKMAK</SimpleData>
+					<SimpleData name="ADINUMARAS">M.FEVZI CAKMAK</SimpleData>
 					<SimpleData name="SHAPE_Leng">4245.08</SimpleData>
 					<SimpleData name="SHAPE_Area">887803</SimpleData>
 				</SchemaData>
@@ -386,12 +386,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Gülbahçe</name>
+			<name>GUlbahCe</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">GÜLBAHÇE</SimpleData>
+					<SimpleData name="ADINUMARAS">GULBAHCE</SimpleData>
 					<SimpleData name="SHAPE_Leng">33255.8</SimpleData>
 					<SimpleData name="SHAPE_Area">2.57517e+07</SimpleData>
 				</SchemaData>
@@ -407,7 +407,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Ovacık</name>
+			<name>OvacIk</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -433,7 +433,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ŞİRİNKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">ŞIRINKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">9223.14</SimpleData>
 					<SimpleData name="SHAPE_Area">2.58526e+06</SimpleData>
 				</SchemaData>
@@ -449,12 +449,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Çamlıçay</name>
+			<name>CamlICay</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ÇAMLIÇAY</SimpleData>
+					<SimpleData name="ADINUMARAS">CAMLICAY</SimpleData>
 					<SimpleData name="SHAPE_Leng">4385.95</SimpleData>
 					<SimpleData name="SHAPE_Area">925760</SimpleData>
 				</SchemaData>
@@ -470,12 +470,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Zeytinalanı</name>
+			<name>ZeytinalanI</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNALANI</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINALANI</SimpleData>
 					<SimpleData name="SHAPE_Leng">3179.77</SimpleData>
 					<SimpleData name="SHAPE_Area">479952</SimpleData>
 				</SchemaData>
@@ -496,7 +496,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">NAİPLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">NAIPLI</SimpleData>
 					<SimpleData name="SHAPE_Leng">7306.9</SimpleData>
 					<SimpleData name="SHAPE_Area">1.70019e+06</SimpleData>
 				</SchemaData>
@@ -512,12 +512,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Yağcılar</name>
+			<name>YaGcIlar</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YAĞCILAR</SimpleData>
+					<SimpleData name="ADINUMARAS">YAGCILAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">53178.9</SimpleData>
 					<SimpleData name="SHAPE_Area">5.73297e+07</SimpleData>
 				</SchemaData>
@@ -538,7 +538,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">DEMİRCİLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">DEMIRCILI</SimpleData>
 					<SimpleData name="SHAPE_Leng">13844</SimpleData>
 					<SimpleData name="SHAPE_Area">3.24583e+06</SimpleData>
 				</SchemaData>
@@ -554,12 +554,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>İçmeler</name>
+			<name>ICmeler</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">İÇMELER</SimpleData>
+					<SimpleData name="ADINUMARAS">ICMELER</SimpleData>
 					<SimpleData name="SHAPE_Leng">18776.6</SimpleData>
 					<SimpleData name="SHAPE_Area">1.50741e+07</SimpleData>
 				</SchemaData>
@@ -575,12 +575,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Kuşçular</name>
+			<name>KuşCular</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">KUŞÇULAR</SimpleData>
+					<SimpleData name="ADINUMARAS">KUŞCULAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">36513.6</SimpleData>
 					<SimpleData name="SHAPE_Area">3.55271e+07</SimpleData>
 				</SchemaData>
@@ -596,12 +596,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Özbek</name>
+			<name>Ozbek</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ÖZBEK</SimpleData>
+					<SimpleData name="ADINUMARAS">OZBEK</SimpleData>
 					<SimpleData name="SHAPE_Leng">32535.3</SimpleData>
 					<SimpleData name="SHAPE_Area">3.28713e+07</SimpleData>
 				</SchemaData>
@@ -622,7 +622,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİCE</SimpleData>
+					<SimpleData name="ADINUMARAS">YENICE</SimpleData>
 					<SimpleData name="SHAPE_Leng">16433.2</SimpleData>
 					<SimpleData name="SHAPE_Area">8.42907e+06</SimpleData>
 				</SchemaData>
@@ -659,7 +659,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Yelaltı</name>
+			<name>YelaltI</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -696,7 +696,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">DENİZLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">DENIZLI</SimpleData>
 					<SimpleData name="SHAPE_Leng">12949.7</SimpleData>
 					<SimpleData name="SHAPE_Area">6.30895e+06</SimpleData>
 				</SchemaData>
@@ -717,7 +717,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNLER</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINLER</SimpleData>
 					<SimpleData name="SHAPE_Leng">76488.7</SimpleData>
 					<SimpleData name="SHAPE_Area">1.1979e+08</SimpleData>
 				</SchemaData>
@@ -733,7 +733,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Kadıovacık</name>
+			<name>KadIovacIk</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
@@ -780,7 +780,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">BİRGİ</SimpleData>
+					<SimpleData name="ADINUMARAS">BIRGI</SimpleData>
 					<SimpleData name="SHAPE_Leng">26190.7</SimpleData>
 					<SimpleData name="SHAPE_Area">2.05407e+07</SimpleData>
 				</SchemaData>
@@ -822,7 +822,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNELİ</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINELI</SimpleData>
 					<SimpleData name="SHAPE_Leng">80458.3</SimpleData>
 					<SimpleData name="SHAPE_Area">1.11242e+08</SimpleData>
 				</SchemaData>

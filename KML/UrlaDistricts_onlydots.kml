@@ -50,7 +50,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİKENT</name>
+			<name>YENIKENT</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.78300766131159</longitude>
@@ -86,7 +86,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>KUŞÇULAR</name>
+			<name>KUŞCULAR</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.79063600581052</longitude>
@@ -104,7 +104,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YAĞCILAR</name>
+			<name>YAGCILAR</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.74750608098736</longitude>
@@ -122,7 +122,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNLER</name>
+			<name>ZEYTINLER</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.5857177533533</longitude>
@@ -140,7 +140,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNELİ</name>
+			<name>ZEYTINELI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.64959324637735</longitude>
@@ -194,7 +194,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>BİRGİ</name>
+			<name>BIRGI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.57635725098052</longitude>
@@ -266,7 +266,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>GÜLBAHÇE</name>
+			<name>GULBAHCE</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.56279188394391</longitude>
@@ -284,7 +284,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>İÇMELER</name>
+			<name>ICMELER</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.69096333325284</longitude>
@@ -320,7 +320,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ÖZBEK</name>
+			<name>OZBEK</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.76341404605625</longitude>
@@ -338,7 +338,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DENİZLİ</name>
+			<name>DENIZLI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.78121658832261</longitude>
@@ -356,7 +356,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>GÜVENDİK</name>
+			<name>GUVENDIK</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.78121658832261</longitude>
@@ -374,7 +374,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>RÜSTEM</name>
+			<name>RUSTEM</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
@@ -392,7 +392,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>İSKELE</name>
+			<name>ISKELE</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
@@ -410,7 +410,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ATATÜRK</name>
+			<name>ATATURK</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
@@ -446,7 +446,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>M.FEVZİ ÇAKMAK</name>
+			<name>M.FEVZI CAKMAK</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
@@ -464,7 +464,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNALANI</name>
+			<name>ZEYTINALANI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
@@ -482,7 +482,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ÇAMLIÇAY</name>
+			<name>CAMLICAY</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
@@ -500,7 +500,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ŞİRİNKENT</name>
+			<name>ŞIRINKENT</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
@@ -536,7 +536,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİCE</name>
+			<name>YENICE</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.79204495176071</longitude>
@@ -554,7 +554,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>NAİPLİ</name>
+			<name>NAIPLI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77675334390577</longitude>
@@ -572,7 +572,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>CAMİATİK</name>
+			<name>CAMIATIK</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.77675334390577</longitude>
@@ -644,7 +644,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİ</name>
+			<name>YENI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.75451929589959</longitude>
@@ -662,7 +662,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>HACI İSA</name>
+			<name>HACI ISA</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.75778962699262</longitude>
@@ -680,7 +680,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DEMİRCİLİ</name>
+			<name>DEMIRCILI</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.6999242250073</longitude>

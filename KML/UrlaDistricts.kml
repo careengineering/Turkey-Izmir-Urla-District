@@ -85,7 +85,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">YENIKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">10157.6</SimpleData>
 					<SimpleData name="SHAPE_Area">2.60974e+06</SimpleData>
 				</SchemaData>
@@ -101,7 +101,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Balıklıova</name>
+			<name>BalIklIova</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -161,7 +161,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Altıntaş</name>
+			<name>AltIntaş</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -185,7 +185,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">CAMİATİK</SimpleData>
+					<SimpleData name="ADINUMARAS">CAMIATIK</SimpleData>
 					<SimpleData name="SHAPE_Leng">11165.9</SimpleData>
 					<SimpleData name="SHAPE_Area">2.65548e+06</SimpleData>
 				</SchemaData>
@@ -201,7 +201,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Sıra</name>
+			<name>SIra</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -221,11 +221,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Atatürk</name>
+			<name>AtatUrk</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ATATÜRK</SimpleData>
+					<SimpleData name="ADINUMARAS">ATATURK</SimpleData>
 					<SimpleData name="SHAPE_Leng">12616.2</SimpleData>
 					<SimpleData name="SHAPE_Area">3.73925e+06</SimpleData>
 				</SchemaData>
@@ -241,11 +241,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>İskele</name>
+			<name>Iskele</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">İSKELE</SimpleData>
+					<SimpleData name="ADINUMARAS">ISKELE</SimpleData>
 					<SimpleData name="SHAPE_Leng">16454.8</SimpleData>
 					<SimpleData name="SHAPE_Area">6.12474e+06</SimpleData>
 				</SchemaData>
@@ -261,11 +261,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Güvendik</name>
+			<name>GUvendik</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">GÜVENDİK</SimpleData>
+					<SimpleData name="ADINUMARAS">GUVENDIK</SimpleData>
 					<SimpleData name="SHAPE_Leng">25415.2</SimpleData>
 					<SimpleData name="SHAPE_Area">1.80861e+07</SimpleData>
 				</SchemaData>
@@ -285,7 +285,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİ</SimpleData>
+					<SimpleData name="ADINUMARAS">YENI</SimpleData>
 					<SimpleData name="SHAPE_Leng">1558.73</SimpleData>
 					<SimpleData name="SHAPE_Area">95257.9</SimpleData>
 				</SchemaData>
@@ -321,11 +321,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Hacı İsa</name>
+			<name>HacI Isa</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">HACI İSA</SimpleData>
+					<SimpleData name="ADINUMARAS">HACI ISA</SimpleData>
 					<SimpleData name="SHAPE_Leng">3424.42</SimpleData>
 					<SimpleData name="SHAPE_Area">315070</SimpleData>
 				</SchemaData>
@@ -341,11 +341,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Rüstem</name>
+			<name>RUstem</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">RÜSTEM</SimpleData>
+					<SimpleData name="ADINUMARAS">RUSTEM</SimpleData>
 					<SimpleData name="SHAPE_Leng">16028.5</SimpleData>
 					<SimpleData name="SHAPE_Area">6.71696e+06</SimpleData>
 				</SchemaData>
@@ -361,11 +361,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>M.Fevzi Çakmak</name>
+			<name>M.Fevzi Cakmak</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">M.FEVZİ ÇAKMAK</SimpleData>
+					<SimpleData name="ADINUMARAS">M.FEVZI CAKMAK</SimpleData>
 					<SimpleData name="SHAPE_Leng">4245.08</SimpleData>
 					<SimpleData name="SHAPE_Area">887803</SimpleData>
 				</SchemaData>
@@ -401,11 +401,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Gülbahçe</name>
+			<name>GUlbahCe</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">GÜLBAHÇE</SimpleData>
+					<SimpleData name="ADINUMARAS">GULBAHCE</SimpleData>
 					<SimpleData name="SHAPE_Leng">33255.8</SimpleData>
 					<SimpleData name="SHAPE_Area">2.57517e+07</SimpleData>
 				</SchemaData>
@@ -421,7 +421,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Ovacık</name>
+			<name>OvacIk</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -445,7 +445,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ŞİRİNKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">ŞIRINKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">9223.14</SimpleData>
 					<SimpleData name="SHAPE_Area">2.58526e+06</SimpleData>
 				</SchemaData>
@@ -461,11 +461,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Çamlıçay</name>
+			<name>CamlICay</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ÇAMLIÇAY</SimpleData>
+					<SimpleData name="ADINUMARAS">CAMLICAY</SimpleData>
 					<SimpleData name="SHAPE_Leng">4385.95</SimpleData>
 					<SimpleData name="SHAPE_Area">925760</SimpleData>
 				</SchemaData>
@@ -481,11 +481,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Zeytinalanı</name>
+			<name>ZeytinalanI</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNALANI</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINALANI</SimpleData>
 					<SimpleData name="SHAPE_Leng">3179.77</SimpleData>
 					<SimpleData name="SHAPE_Area">479952</SimpleData>
 				</SchemaData>
@@ -505,7 +505,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">NAİPLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">NAIPLI</SimpleData>
 					<SimpleData name="SHAPE_Leng">7306.9</SimpleData>
 					<SimpleData name="SHAPE_Area">1.70019e+06</SimpleData>
 				</SchemaData>
@@ -521,11 +521,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Yağcılar</name>
+			<name>YaGcIlar</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YAĞCILAR</SimpleData>
+					<SimpleData name="ADINUMARAS">YAGCILAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">53178.9</SimpleData>
 					<SimpleData name="SHAPE_Area">5.73297e+07</SimpleData>
 				</SchemaData>
@@ -545,7 +545,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">DEMİRCİLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">DEMIRCILI</SimpleData>
 					<SimpleData name="SHAPE_Leng">13844</SimpleData>
 					<SimpleData name="SHAPE_Area">3.24583e+06</SimpleData>
 				</SchemaData>
@@ -561,11 +561,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>İçmeler</name>
+			<name>ICmeler</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">İÇMELER</SimpleData>
+					<SimpleData name="ADINUMARAS">ICMELER</SimpleData>
 					<SimpleData name="SHAPE_Leng">18776.6</SimpleData>
 					<SimpleData name="SHAPE_Area">1.50741e+07</SimpleData>
 				</SchemaData>
@@ -581,11 +581,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Kuşçular</name>
+			<name>KuşCular</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">KUŞÇULAR</SimpleData>
+					<SimpleData name="ADINUMARAS">KUŞCULAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">36513.6</SimpleData>
 					<SimpleData name="SHAPE_Area">3.55271e+07</SimpleData>
 				</SchemaData>
@@ -601,11 +601,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Özbek</name>
+			<name>Ozbek</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ÖZBEK</SimpleData>
+					<SimpleData name="ADINUMARAS">OZBEK</SimpleData>
 					<SimpleData name="SHAPE_Leng">32535.3</SimpleData>
 					<SimpleData name="SHAPE_Area">3.28713e+07</SimpleData>
 				</SchemaData>
@@ -625,7 +625,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">YENİCE</SimpleData>
+					<SimpleData name="ADINUMARAS">YENICE</SimpleData>
 					<SimpleData name="SHAPE_Leng">16433.2</SimpleData>
 					<SimpleData name="SHAPE_Area">8.42907e+06</SimpleData>
 				</SchemaData>
@@ -661,7 +661,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Yelaltı</name>
+			<name>YelaltI</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -696,7 +696,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">DENİZLİ</SimpleData>
+					<SimpleData name="ADINUMARAS">DENIZLI</SimpleData>
 					<SimpleData name="SHAPE_Leng">12949.7</SimpleData>
 					<SimpleData name="SHAPE_Area">6.30895e+06</SimpleData>
 				</SchemaData>
@@ -716,7 +716,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNLER</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINLER</SimpleData>
 					<SimpleData name="SHAPE_Leng">76488.7</SimpleData>
 					<SimpleData name="SHAPE_Area">1.1979e+08</SimpleData>
 				</SchemaData>
@@ -732,7 +732,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Kadıovacık</name>
+			<name>KadIovacIk</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
@@ -776,7 +776,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">BİRGİ</SimpleData>
+					<SimpleData name="ADINUMARAS">BIRGI</SimpleData>
 					<SimpleData name="SHAPE_Leng">26190.7</SimpleData>
 					<SimpleData name="SHAPE_Area">2.05407e+07</SimpleData>
 				</SchemaData>
@@ -816,7 +816,7 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ZEYTİNELİ</SimpleData>
+					<SimpleData name="ADINUMARAS">ZEYTINELI</SimpleData>
 					<SimpleData name="SHAPE_Leng">80458.3</SimpleData>
 					<SimpleData name="SHAPE_Area">1.11242e+08</SimpleData>
 				</SchemaData>
@@ -849,7 +849,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİKENT</name>
+			<name>YENIKENT</name>
 			<Camera>
 				<longitude>26.78300766131159</longitude>
 				<latitude>38.31209458713693</latitude>
@@ -883,7 +883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>KUŞÇULAR</name>
+			<name>KUŞCULAR</name>
 			<Camera>
 				<longitude>26.79063600581052</longitude>
 				<latitude>38.29349027710614</latitude>
@@ -900,7 +900,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YAĞCILAR</name>
+			<name>YAGCILAR</name>
 			<Camera>
 				<longitude>26.74750608098736</longitude>
 				<latitude>38.23582241241799</latitude>
@@ -917,7 +917,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNLER</name>
+			<name>ZEYTINLER</name>
 			<Camera>
 				<longitude>26.5857177533533</longitude>
 				<latitude>38.21499788941203</latitude>
@@ -934,7 +934,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNELİ</name>
+			<name>ZEYTINELI</name>
 			<Camera>
 				<longitude>26.64959324637735</longitude>
 				<latitude>38.01101265665569</latitude>
@@ -985,7 +985,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>BİRGİ</name>
+			<name>BIRGI</name>
 			<Camera>
 				<longitude>26.57635725098052</longitude>
 				<latitude>38.2935366968646</latitude>
@@ -1053,7 +1053,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>GÜLBAHÇE</name>
+			<name>GULBAHCE</name>
 			<Camera>
 				<longitude>26.56279188394391</longitude>
 				<latitude>38.09240631578968</latitude>
@@ -1070,7 +1070,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>İÇMELER</name>
+			<name>ICMELER</name>
 			<Camera>
 				<longitude>26.69096333325284</longitude>
 				<latitude>38.2293892726748</latitude>
@@ -1104,7 +1104,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ÖZBEK</name>
+			<name>OZBEK</name>
 			<Camera>
 				<longitude>26.76341404605625</longitude>
 				<latitude>38.25238859531053</latitude>
@@ -1121,7 +1121,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DENİZLİ</name>
+			<name>DENIZLI</name>
 			<Camera>
 				<longitude>26.78121658832261</longitude>
 				<latitude>38.27721497825546</latitude>
@@ -1138,7 +1138,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>GÜVENDİK</name>
+			<name>GUVENDIK</name>
 			<Camera>
 				<longitude>26.78121658832261</longitude>
 				<latitude>38.27721497825546</latitude>
@@ -1155,7 +1155,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>RÜSTEM</name>
+			<name>RUSTEM</name>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
 				<latitude>38.29100458579701</latitude>
@@ -1172,7 +1172,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>İSKELE</name>
+			<name>ISKELE</name>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
 				<latitude>38.29100458579701</latitude>
@@ -1189,7 +1189,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ATATÜRK</name>
+			<name>ATATURK</name>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
 				<latitude>38.29100458579701</latitude>
@@ -1223,7 +1223,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>M.FEVZİ ÇAKMAK</name>
+			<name>M.FEVZI CAKMAK</name>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
 				<latitude>38.29100458579701</latitude>
@@ -1240,7 +1240,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ZEYTİNALANI</name>
+			<name>ZEYTINALANI</name>
 			<Camera>
 				<longitude>26.77963760696296</longitude>
 				<latitude>38.29100458579701</latitude>
@@ -1257,7 +1257,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ÇAMLIÇAY</name>
+			<name>CAMLICAY</name>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
 				<latitude>38.31869522644201</latitude>
@@ -1274,7 +1274,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ŞİRİNKENT</name>
+			<name>ŞIRINKENT</name>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
 				<latitude>38.31869522644201</latitude>
@@ -1308,7 +1308,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİCE</name>
+			<name>YENICE</name>
 			<Camera>
 				<longitude>26.79204495176071</longitude>
 				<latitude>38.28969133583958</latitude>
@@ -1325,7 +1325,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>NAİPLİ</name>
+			<name>NAIPLI</name>
 			<Camera>
 				<longitude>26.77675334390577</longitude>
 				<latitude>38.28879468040083</latitude>
@@ -1342,7 +1342,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>CAMİATİK</name>
+			<name>CAMIATIK</name>
 			<Camera>
 				<longitude>26.77675334390577</longitude>
 				<latitude>38.28879468040083</latitude>
@@ -1410,7 +1410,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>YENİ</name>
+			<name>YENI</name>
 			<Camera>
 				<longitude>26.75451929589959</longitude>
 				<latitude>38.2911800816288</latitude>
@@ -1427,7 +1427,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>HACI İSA</name>
+			<name>HACI ISA</name>
 			<Camera>
 				<longitude>26.75778962699262</longitude>
 				<latitude>38.29288145116639</latitude>
@@ -1444,7 +1444,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DEMİRCİLİ</name>
+			<name>DEMIRCILI</name>
 			<Camera>
 				<longitude>26.6999242250073</longitude>
 				<latitude>38.18355045948191</latitude>
