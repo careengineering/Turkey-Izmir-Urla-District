@@ -86,7 +86,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>KUŞCULAR</name>
+			<name>KUSCULAR</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.79063600581052</longitude>
@@ -500,7 +500,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ŞIRINKENT</name>
+			<name>SIRINKENT</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
@@ -608,7 +608,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ALTINTAŞ</name>
+			<name>ALTINTAS</name>
 			<visibility>0</visibility>
 			<Camera>
 				<longitude>26.75451929589959</longitude>

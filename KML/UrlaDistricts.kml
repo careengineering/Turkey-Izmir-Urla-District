@@ -161,11 +161,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>AltIntaş</name>
+			<name>AltIntaS</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ALTINTAŞ</SimpleData>
+					<SimpleData name="ADINUMARAS">ALTINTAS</SimpleData>
 					<SimpleData name="SHAPE_Leng">8288.01</SimpleData>
 					<SimpleData name="SHAPE_Area">1.78726e+06</SimpleData>
 				</SchemaData>
@@ -441,11 +441,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Şirinkent</name>
+			<name>Sirinkent</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ŞIRINKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">SIRINKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">9223.14</SimpleData>
 					<SimpleData name="SHAPE_Area">2.58526e+06</SimpleData>
 				</SchemaData>
@@ -581,11 +581,11 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>KuşCular</name>
+			<name>KuSCular</name>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">KUŞCULAR</SimpleData>
+					<SimpleData name="ADINUMARAS">KUSCULAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">36513.6</SimpleData>
 					<SimpleData name="SHAPE_Area">3.55271e+07</SimpleData>
 				</SchemaData>
@@ -883,7 +883,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>KUŞCULAR</name>
+			<name>KUSCULAR</name>
 			<Camera>
 				<longitude>26.79063600581052</longitude>
 				<latitude>38.29349027710614</latitude>
@@ -1274,7 +1274,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ŞIRINKENT</name>
+			<name>SIRINKENT</name>
 			<Camera>
 				<longitude>26.80406532116931</longitude>
 				<latitude>38.31869522644201</latitude>
@@ -1376,7 +1376,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>ALTINTAŞ</name>
+			<name>ALTINTAS</name>
 			<Camera>
 				<longitude>26.75451929589959</longitude>
 				<latitude>38.2911800816288</latitude>

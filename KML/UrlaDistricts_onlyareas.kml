@@ -134,12 +134,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>AltIntaş</name>
+			<name>AltIntaS</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ALTINTAŞ</SimpleData>
+					<SimpleData name="ADINUMARAS">ALTINTAS</SimpleData>
 					<SimpleData name="SHAPE_Leng">8288.01</SimpleData>
 					<SimpleData name="SHAPE_Area">1.78726e+06</SimpleData>
 				</SchemaData>
@@ -428,12 +428,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Şirinkent</name>
+			<name>Sirinkent</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">ŞIRINKENT</SimpleData>
+					<SimpleData name="ADINUMARAS">SIRINKENT</SimpleData>
 					<SimpleData name="SHAPE_Leng">9223.14</SimpleData>
 					<SimpleData name="SHAPE_Area">2.58526e+06</SimpleData>
 				</SchemaData>
@@ -575,12 +575,12 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>KuşCular</name>
+			<name>KuSCular</name>
 			<visibility>0</visibility>
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_MAHALLE_SDD">
-					<SimpleData name="ADINUMARAS">KUŞCULAR</SimpleData>
+					<SimpleData name="ADINUMARAS">KUSCULAR</SimpleData>
 					<SimpleData name="SHAPE_Leng">36513.6</SimpleData>
 					<SimpleData name="SHAPE_Area">3.55271e+07</SimpleData>
 				</SchemaData>
