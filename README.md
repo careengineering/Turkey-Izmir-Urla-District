@@ -1,5 +1,6 @@
 # Turkey-Izmir-Urla-District
 
+
 ## Turkey - Izmir - Urla District Neighborhood Boundaries and Various Information about This Region
 
 You can find my data visualization work on [Kaggle](https://www.kaggle.com/code/careengineering/urla-district-population-visualization)
