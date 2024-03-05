@@ -9,10 +9,10 @@ You can find my data visualization work on [Kaggle](https://www.kaggle.com/code/
 
 
 
-If you need a GeoJSON dataset containing only neighborhood names with areas [Urla Districts Only Areas GeoJSON File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/GEOJSON/UrlaDistricts_areas.geojson)
+If you need a GeoJSON dataset containing only neighborhood names with areas [Urla Districts Only Areas GeoJSON File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/geoJSON/UrlaDistricts_areas.geojson)
 <img src="https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/img/Geojson-UrlaDistricts_onlyareas.png" width="500" />
 
-If you need a GeoJSON dataset containing only neighborhood names with dots [Urla Districts Only Dots GeoJSON File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/GEOJSON/UrlaDistricts_dots.geojson)
+If you need a GeoJSON dataset containing only neighborhood names with dots [Urla Districts Only Dots GeoJSON File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/geoJSON/UrlaDistricts_dots.geojson)
 <img src="https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/img/Geojson-UrlaDistricts_onlydots.png" width="500" />
 
 If you need a KML containing only neighborhood names with areas [Urla Districts Only Areas KML File](https://github.com/careengineering/Turkey-Izmir-Urla-District/blob/main/KML/UrlaDistricts_onlyareas.kml)
